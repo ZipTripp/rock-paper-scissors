@@ -19,7 +19,7 @@ A classic Rock-Paper-Scissors game built with **HTML, CSS, and JavaScript**, hos
 ## 📸 Preview
 
 ![Rock Paper Scissors Game Screenshot](https://ziptripp.github.io/rock-paper-scissors/img/preview.png)  
-<sub>*Add an actual screenshot image in your repo for this to show up*</sub>
+
 
 ---
 
